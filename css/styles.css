@@ -1,4 +1,12 @@
-.h1{
+h1{
+
+    font-size: 29px;
+    color: purple;
+    text-transform: uppercase;    
+    text-align: center;
+}
+p{
 
     font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
